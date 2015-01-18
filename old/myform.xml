@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<form url="myform.asp"
+ window="_self"
+ method="POST"
+ fontname="MS Sans Serif"
+ width="350"
+ height="500"
+ bkcolor="0xFFFFFF"
+ transparent="f"
+ fontcolor="0x000000"
+ outlinecolor="0xFFFFFF"
+ themecolor="0xFFFF99"
+ fontcolor2="#000000"
+ bkcolor2="#FFFFFF"
+ includeresults="false"
+ emailuser="false"
+ verifymessage="zadaný e-mail sa nezhoduje"
+ reqmessage="Formulár nie je úplne vyplnený."
+ invalidemailmsg="nejaví sa ako správne zadaný e-mail, prajete si to napraviť?"
+ transition="4"
+ autoresponseincluderesults="f"
+ autoresponseaddtotop="f"
+ usephp="false"
+ disableclicktoactiveprompt="true"
+ extensions="*.txt;*.gif;*.jpg;*.jpeg;*.zip;*.doc;*.png;*.pdf;*.rtf;*.html;*.docx;*.xslx"
+>
+
+<hidden
+ name="thankyoupage"
+ value="http://www.dogneck.sk/podakovanie.htm"
+></hidden>
+
+<hidden
+ name="subject"
+ value=""
+></hidden>
+
+<textinput
+ name="name"
+ x="125"
+ y="75"
+ w="229"
+ h="22"
+ initvalue=""
+ maxchars="25"
+ bkcolor="0xFFFFFF"
+  fontname="Arial"
+  fontcolor="0x000000"
+ required="true"
+ editable="true"
+>
+</textinput>
+
+<textinput
+ name="Telefon"
+ x="125"
+ y="125"
+ w="226"
+ h="22"
+ initvalue=""
+ maxchars="25"
+ bkcolor="0xFFFFFF"
+  fontname="Arial"
+  fontcolor="0x000000"
+ required="true"
+ editable="true"
+  restrict="phone"
+>
+</textinput>
+
+<textinput
+ name="adresa"
+ x="125"
+ y="150"
+ w="226"
+ h="22"
+ initvalue=""
+ maxchars="160"
+ bkcolor="0xFFFFFF"
+  fontname="Arial"
+  fontcolor="0x000000"
+ required="true"
+ editable="true"
+>
+</textinput>
+
+<textinput
+ name="e-mail"
+ x="124"
+ y="175"
+ w="226"
+ h="22"
+ initvalue="@"
+ maxchars="25"
+ bkcolor="0xFFFFFF"
+  fontname="Arial"
+  fontcolor="0x000000"
+ emailbox="true"
+ editable="true"
+  restrict="email"
+>
+</textinput>
+
+<checkbox
+ name="Dogneck original"
+ x="100"
+ y="200"
+ w="111"
+ h="19"
+ label="DogNeck original"
+ labelPos="right"
+ value="checked"
+  fontsize="12"
+  fontname="Arial"
+  fontcolor="0x000000"
+></checkbox>
+
+<textarea
+ name="dogneck original mnozstvo"
+ x="225"
+ y="200"
+ w="51"
+ h="24"
+ initvalue=""
+ maxchars="3"
+ editable="true"
+ bkcolor="0xFFFFFF"
+  fontsize="12"
+  fontname="Arial"
+  fontcolor="0x000000"
+></textarea>
+
+<checkbox
+ name="Dogneck easy"
+ x="100"
+ y="225"
+ w="96"
+ h="19"
+ label="DogNeck easy"
+ labelPos="right"
+ value="checked"
+  fontsize="12"
+  fontname="Arial"
+  fontcolor="0x000000"
+></checkbox>
+
+<textarea
+ name="dogneck easy mnozstvo"
+ x="225"
+ y="225"
+ w="51"
+ h="24"
+ initvalue=""
+ maxchars="3"
+ editable="true"
+ bkcolor="0xFFFFFF"
+  fontsize="12"
+  fontname="Arial"
+  fontcolor="0x000000"
+></textarea>
+
+<combobox
+ name="Sposob platby list"
+ x="100"
+ y="250"
+ bkcolor="0xFFFFFF"
+ fontcolor="0x000000"
+ required="true"
+ isemail="false"
+ w="100"
+ h="20">
+  <item name="Dobierka"></item>
+  <item name="Bankový prevod"></item>
+</combobox>
+
+<textarea
+ name="poznamka"
+ x="100"
+ y="277"
+ w="250"
+ h="73"
+ initvalue=""
+ maxchars="160"
+ wordwrap="true"
+ editable="true"
+ bkcolor="0xFFFFFF"
+  fontsize="12"
+  fontname="Arial"
+  fontcolor="0x000000"
+></textarea>
+
+<submitbutton
+ name="Submit Button"
+ x="225"
+ y="475"
+ w="100"
+ h="20"
+ label="Odoslať"
+ fontname="Arial"
+ fontcolor="0x000000"
+  fontsize="12"
+></submitbutton>
+
+<label
+ name="My Text 1"
+ x="0"
+ y="75"
+ w="123"
+ h="16"
+ text="Meno a priezvisko:"
+ fontbold="bold"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 2"
+ x="25"
+ y="0"
+ w="314"
+ h="37"
+ text="Objednávka obojkov"
+ fontbold="bold"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="32"
+></label>
+
+<label
+ name="My Text 3"
+ x="0"
+ y="150"
+ w="120"
+ h="16"
+ text="Adresa doručenia:"
+ fontbold="bold"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 4"
+ x="25"
+ y="175"
+ w="75"
+ h="16"
+ text="Váš e-mail:"
+ fontbold="bold"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 5"
+ x="0"
+ y="275"
+ w="75"
+ h="16"
+ text="Poznámka:"
+ fontbold="bold"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 6"
+ x="0"
+ y="200"
+ w="94"
+ h="16"
+ text="Model obojku:"
+ fontbold="bold"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 7"
+ x="275"
+ y="200"
+ w="22"
+ h="16"
+ text="KS"
+ fontbold="bold"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 8"
+ x="275"
+ y="225"
+ w="22"
+ h="16"
+ text="KS"
+ fontbold="bold"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+<label
+ name="My Text 9"
+ x="50"
+ y="125"
+ w="55"
+ h="16"
+ text="Telefón:"
+ fontbold="bold"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+<captcha
+ name="My Captcha 1"
+ x="200"
+ y="375"
+ w="133"
+ h="100"
+ text="Text obrázku:"
+ fnt="Arial"
+ fntclr="0x000000"
+ fntsize="11"
+ bkbdrcolor="0x000000"
+ bkfillclr="0xFFFFFF"
+ bkdobdr="t"
+ bkbdrsolid="t"
+ bkdobk="t"
+ bkfillalpha="100"
+ message="Nesprávne zadaný text!"
+></captcha>
+
+<label
+ name="My Text 10"
+ x="0"
+ y="250"
+ w="98"
+ h="16"
+ text="Spôsob platby:"
+ fontbold="bold"
+  fontname="Arial"
+  fontcolor="0x000000"
+  fontsize="13"
+></label>
+
+</form>
