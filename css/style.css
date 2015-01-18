@@ -2119,3 +2119,13 @@ a.b-home {
         float: none;
     }
 }
+
+/* added by Lukas Hornak*/
+.toggle-hide {
+    display: none;
+}
+
+.reference-button {
+    color: #adadad;
+    cursor:pointer;
+}

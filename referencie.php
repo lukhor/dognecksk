@@ -8,6 +8,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 <head>
     <?php include("header.php"); ?>
+    <script type="text/javascript">
+        function toogleRef1(){
+            jQuery('#ref1').toggle();
+            jQuery('#showRef1').toggle();
+            jQuery('#hideRef1').toggle();
+        }
+    </script>
 </head>
 <body>
 <div class="men_banner">
@@ -39,16 +46,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <h1>TWISTER Trenčín – Zdeno Meravý <a href="http://www.vycvik-twister.wbl.sk/">http://www.vycvik-twister.wbl.sk/</a>
                 </h1>
 
-                <blockquote><p>Výcviková škola a hotel pre psov</p> <br/>
+                <blockquote><p>Výcviková škola a hotel pre psov</p><br/>
 
                     <p>Obojok pre bežné použitie odporúčam.</p><br/>
 
                     <p>K dispozícii sme mali oba typy obojku DogNeck – Original aj Easy.</p><br/>
 
                     <p>Pri výcviku obrany sú obojky menej vhodné, avšak pre výcvik základnej poslušnosti a domáce
-                        použitie
-
-                        sa výborne osvedčili. S modelom Original, ktorý sme nasadili nemeckému ovčiakovi, sme
+                        použitie sa výborne osvedčili.</p>
+                    <div id="ref1" class="toggle-hide">
+                        <p>
+                        S modelom Original, ktorý sme nasadili nemeckému ovčiakovi, sme
                         zaznamenali
 
                         viditeľné zmeny pri pokusoch o potiahnutie. Pri výcviku bežne používame šnúrky a tie sú veľmi
@@ -63,7 +71,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
                         k dispozícii možnosť ako ľahko a pohodlne psa odnaučí ťahať.</p><br/>
 
-                    <p>Je to výborná alternatíva retiazky, ktorú veľa cvičiteľov zvykne odporúčať.</p><br/></blockquote>
+                    <p>Je to výborná alternatíva retiazky, ktorú veľa cvičiteľov zvykne odporúčať.</p>
+                    </div>
+                    <a id="showRef1" onclick="toogleRef1()"class="reference-button">Zobraziť viac</a>
+                    <a id="hideRef1" onclick="toogleRef1()" class="toggle-hide reference-button">Skryť</a>
+                </blockquote>
             </div>
         </div>
         <br/>
