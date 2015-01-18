@@ -2,53 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e836e86b-46ba-4a93-9f7f-61626a8b67ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dogneck\js\cbpViewModeSwitch.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dogneck\js\classie.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\dogneck\men.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/ako to funguje.htm" afterPath="$PROJECT_DIR$/old/ako to funguje.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ako-to-funguje.php" afterPath="$PROJECT_DIR$/ako-to-funguje.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/basic.css" afterPath="$PROJECT_DIR$/css/basic.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/basic.js" afterPath="$PROJECT_DIR$/js/basic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/basic_ie.css" afterPath="$PROJECT_DIR$/css/basic_ie.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bpopup.js" afterPath="$PROJECT_DIR$/js/bpopup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/brands.html" afterPath="$PROJECT_DIR$/brands.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/colorbox.css" afterPath="$PROJECT_DIR$/css/colorbox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/component.css" afterPath="$PROJECT_DIR$/css/component.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/demo.css" afterPath="$PROJECT_DIR$/css/demo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/easyResponsiveTabs.js" afterPath="$PROJECT_DIR$/js/easyResponsiveTabs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/etalage.css" afterPath="$PROJECT_DIR$/css/etalage.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/gmaps.js" afterPath="$PROJECT_DIR$/js/gmaps.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/hover_pack.js" afterPath="$PROJECT_DIR$/js/hover_pack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/index.htm" afterPath="$PROJECT_DIR$/old/index.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-1.11.1.min.js" afterPath="$PROJECT_DIR$/js/jquery-1.11.1.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.colorbox-min.js" afterPath="$PROJECT_DIR$/js/jquery.colorbox-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.colorbox-sk.js" afterPath="$PROJECT_DIR$/js/jquery.colorbox-sk.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.etalage.min.js" afterPath="$PROJECT_DIR$/js/jquery.etalage.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.simplemodal.js" afterPath="$PROJECT_DIR$/js/jquery.simplemodal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kde-zakupite.php" afterPath="$PROJECT_DIR$/kde-zakupite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/form-validate.js" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\dogneck\images\easy\01.JPG" afterPath="$PROJECT_DIR$/images/easy/01.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\dogneck\images\easy\02.JPG" afterPath="$PROJECT_DIR$/images/easy/02.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\dogneck\images\easy\03.JPG" afterPath="$PROJECT_DIR$/images/easy/03.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\dogneck\images\easy\04.JPG" afterPath="$PROJECT_DIR$/images/easy/04.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\dogneck\images\easy\05.JPG" afterPath="$PROJECT_DIR$/images/easy/05.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\dogneck\images\easy\06.JPG" afterPath="$PROJECT_DIR$/images/easy/06.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\dogneck\images\original\01.JPG" afterPath="$PROJECT_DIR$/images/original/01.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\dogneck\images\original\02.JPG" afterPath="$PROJECT_DIR$/images/original/02.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\dogneck\images\original\03.JPG" afterPath="$PROJECT_DIR$/images/original/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner.jpg" afterPath="$PROJECT_DIR$/images/banner.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kontakt.php" afterPath="$PROJECT_DIR$/kontakt.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/magnific-popup.css" afterPath="$PROJECT_DIR$/css/magnific-popup.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/magnific.js" afterPath="$PROJECT_DIR$/js/magnific.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/megamenu.css" afterPath="$PROJECT_DIR$/css/megamenu.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/megamenu.js" afterPath="$PROJECT_DIR$/js/megamenu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/myform.html" afterPath="$PROJECT_DIR$/old/myform.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/myform.xml" afterPath="$PROJECT_DIR$/old/myform.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/objednavka a kontakt.htm" afterPath="$PROJECT_DIR$/old/objednavka a kontakt.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/obojky.htm" afterPath="$PROJECT_DIR$/old/obojky.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/obojky.php" afterPath="$PROJECT_DIR$/obojky.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/podakovanie.htm" afterPath="$PROJECT_DIR$/old/podakovanie.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/referencie.php" afterPath="$PROJECT_DIR$/referencie.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single.html" afterPath="$PROJECT_DIR$/single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/sitemap.xml" afterPath="$PROJECT_DIR$/old/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/swfobject.js" afterPath="$PROJECT_DIR$/old/swfobject.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.php" afterPath="$PROJECT_DIR$/temp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dogneck.iws" />
@@ -74,21 +39,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/header.php">
+      <file leaf-file-name="kontakt.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kontakt.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="782">
-              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+            <state vertical-scroll-proportion="0.33333334" vertical-offset="1377" max-vertical-offset="2499">
+              <caret line="98" column="17" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1421608340364" expanded="true" signature="5232:5245" placeholder="..." />
+                <marker date="1421608340364" expanded="true" signature="5378:5389" placeholder="..." />
+                <marker date="1421608340364" expanded="true" signature="6919:6939" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form-validate.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/form-validate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+              <caret line="9" column="167" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="167" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="single.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/single.html">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3479021" vertical-offset="651" max-vertical-offset="7922">
-              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+            <state vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="782">
+              <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -122,9 +102,10 @@
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/ako-to-funguje.php" />
         <option value="$PROJECT_DIR$/kde-zakupite.php" />
-        <option value="$PROJECT_DIR$/kontakt.php" />
         <option value="$PROJECT_DIR$/obojky.php" />
         <option value="$PROJECT_DIR$/referencie.php" />
+        <option value="$PROJECT_DIR$/js/form-validate.js" />
+        <option value="$PROJECT_DIR$/kontakt.php" />
       </list>
     </option>
   </component>
@@ -287,6 +268,13 @@
       <option name="number" value="Default" />
       <updated>1417371748856</updated>
     </task>
+    <task id="LOCAL-00001" summary="reformat code, rearange header to header.php">
+      <created>1421584095443</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1421584095443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -298,10 +286,10 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897604" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32897604" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32976446" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -341,22 +329,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kde-zakupite.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1806" max-vertical-offset="2958">
-          <caret line="135" column="92" selection-start-line="135" selection-start-column="92" selection-end-line="135" selection-end-column="92" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ako-to-funguje.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2027" max-vertical-offset="3196">
-          <caret line="161" column="6" selection-start-line="132" selection-start-column="0" selection-end-line="161" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/temp.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3472" max-vertical-offset="6817">
@@ -398,7 +370,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2408" max-vertical-offset="3961">
           <caret line="150" column="26" selection-start-line="150" selection-start-column="26" selection-end-line="150" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1421608340364" expanded="true" signature="5232:5245" placeholder="..." />
+            <marker date="1421608340364" expanded="true" signature="5378:5389" placeholder="..." />
+            <marker date="1421608340364" expanded="true" signature="6919:6939" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -467,7 +444,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2408" max-vertical-offset="3961">
           <caret line="150" column="26" selection-start-line="150" selection-start-column="26" selection-end-line="150" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1421608340364" expanded="true" signature="5232:5245" placeholder="..." />
+            <marker date="1421608340364" expanded="true" signature="5378:5389" placeholder="..." />
+            <marker date="1421608340364" expanded="true" signature="6919:6939" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -522,7 +504,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3961">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1421608340364" expanded="true" signature="5232:5245" placeholder="..." />
+            <marker date="1421608340364" expanded="true" signature="5378:5389" placeholder="..." />
+            <marker date="1421608340364" expanded="true" signature="6919:6939" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -662,22 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kontakt.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.807692" vertical-offset="1207" max-vertical-offset="2091">
-          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/obojky.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="2278">
-          <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/referencie.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-27.307692" vertical-offset="565" max-vertical-offset="1462">
@@ -702,19 +673,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
+    <entry file="file://$PROJECT_DIR$/single.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="782">
-          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.22613636" vertical-offset="651" max-vertical-offset="7922">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/single.html">
+    <entry file="file://$PROJECT_DIR$/obojky.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3479021" vertical-offset="651" max-vertical-offset="7922">
-          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        <state vertical-scroll-proportion="-0.27045456" vertical-offset="408" max-vertical-offset="2278">
+          <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31898454" vertical-offset="0" max-vertical-offset="906">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/hover_pack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8143">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="782">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/form-validate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <caret line="9" column="167" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="167" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontakt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="1377" max-vertical-offset="2499">
+          <caret line="98" column="17" selection-start-line="98" selection-start-column="17" selection-end-line="98" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1421608340364" expanded="true" signature="5232:5245" placeholder="..." />
+            <marker date="1421608340364" expanded="true" signature="5378:5389" placeholder="..." />
+            <marker date="1421608340364" expanded="true" signature="6919:6939" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
