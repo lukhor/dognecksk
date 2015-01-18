@@ -14,7 +14,7 @@ if(isset($_POST['sendfeedback'])) {
         if ( preg_match( $regex, $email ) ) {
             $name = $_POST['nameOf'];
             $subject = $_POST['subject'];
-            $subject = $_POST['subject'];
+            $message = $_POST['messageOf'];
             $headers = 'From: ' . $email . "\r\n"; // Sender's Email
             /*$headers .= 'Cc: lukhor@gmail.com' . "\r\n"; // Carbon copy to Sender*/
             // Message lines should not exceed 70 characters (PHP rule), so wrap it
