@@ -10,7 +10,7 @@
                 fit: true
             }
             //Variables
-            var options = $.extend(defaults, options);            
+            var options = $.extend(defaults, options);
             var opt = options, jtype = opt.type, jfit = opt.fit, jwidth = opt.width, vtabs = 'vertical', accord = 'accordion';
 
             //Main function
@@ -30,7 +30,7 @@
                         $respTabs.addClass('resp-vtabs');
                     }
                     if (jfit == true) {
-                        $respTabs.css({ width: '100%', margin: '0px' });
+                        $respTabs.css({width: '100%', margin: '0px'});
                     }
                     if (jtype == accord) {
                         $respTabs.addClass('resp-easy-accordion');
@@ -82,7 +82,9 @@
                         var $tabAria = $currentTab.attr('aria-controls');
 
                         if ($currentTab.hasClass('resp-accordion') && $currentTab.hasClass('resp-tab-active')) {
-                            $respTabs.find('.resp-tab-content-active').slideUp('', function () { $(this).addClass('resp-accordion-closed'); });
+                            $respTabs.find('.resp-tab-content-active').slideUp('', function () {
+                                $(this).addClass('resp-accordion-closed');
+                            });
                             $currentTab.removeClass('resp-tab-active');
                             return false;
                         }

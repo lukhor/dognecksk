@@ -7,36 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Dogneck - Kde zakúpite</title>
-    <meta name=”keywords” content=”obojok, obojky, obojka, obojku, obojkom, dog, neck, dogneck, sťahovací, sťahovacie, sťahuje, škrtiaci, škrtidlo, škrtiace, škrtiaceho, škrtiacim, ťahanie, ťahá, ťahať, ťahaniu, ťahal, neťahal, zabráni, zabrániť, obmedziť, zamedziť, obmedzí, zamedzí, obmedzenie, zamedzenie, zmiernenie, zabránenie, bránenie, brániaci, pes, psa, psie, psí, psích, psieho, psovi, psy, psom, postroj, postroje, postroja, postrojom, popruh, šnúrka, lanko, lano, šnúra, šnúry, lana, stop, collar, millan, cesar, illusion, výcvik, výcvikový, training, pokojný, upokojiť, upokojí, kľud, kľudné, kľudne, prechádzka, prechádzky, prechádzok, chôdza, vychádzka, chodiť, pri, nohe, psovod, krátko, blízko, proti”>
-    <!-- Page styles -->
-    <link type='text/css' href='css/demo.css' rel='stylesheet' media='screen' />
-
-    <!-- Contact Form CSS files -->
-    <link type='text/css' href='css/basic.css' rel='stylesheet' media='screen' />
-    <link href="css/bootstrap.css" rel='stylesheet' type='text/css'/>
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <!-- Custom Theme files -->
-    <link href="css/style.css" rel='stylesheet' type='text/css'/>
-    <link href="css/component.css" rel='stylesheet' type='text/css'/>
-    <!-- Custom Theme files -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <script type="application/x-javascript"> addEventListener("load", function () {
-            setTimeout(hideURLbar, 0);
-        }, false);
-        function hideURLbar() {
-            window.scrollTo(0, 1);
-        } </script>
-    <!--webfont-->
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
-    <!-- start menu -->
-    <link href="css/megamenu.css" rel="stylesheet" type="text/css" media="all"/>
-    <script type="text/javascript" src="js/megamenu.js"></script>
-    <script>$(document).ready(function () {
-            $(".megamenu").megamenu();
-        });</script>
+    <?php include("header.php"); ?>
     <!--GMAPS-->
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
     <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
@@ -120,7 +91,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 map.setZoom(16);
             })
         })
-
     </script>
 </head>
 <body>
@@ -164,43 +134,46 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </tr>
                     </thead>
                     <tbody>
-                        <tr>
-                            <td class="pos1">1</td>
-                            <td class="pos1">Chov-mix Arari</td>
-                            <td class="pos1">A. Kmeťa 360/5, Dubnica nad Váhom</td>
-                            <td class="pos1">+421 903 506 989</td>
-                            <td class="pos1"><a href="malito:chovmixarari@post.sk">chovmixarari@post.sk</a></td>
-                            <!--<td class="pos1">Všetko pre Vašich domácich miláčikov. Ak by náhodou niečo nemali, radi Vám to
-                                promptne zabezpečia.
-                            </td>-->
-                        </tr>
-                        <tr>
-                            <!-- Ťapka - 48.894948, 18.066775-->
-                            <td class="pos2">2</td>
-                            <td class="pos2">Ťapka</td>
-                            <td class="pos2">Pred poľom 1652, Trenčín</td>
-                            <td class="pos2">+421 908 754 288</td>
-                            <td class="pos2"><a href="malito:info@tapka.sk">info@tapka.sk</a>, <a href="http://www.tapka.sk" target="_blank">www.tapka.sk</a></td>
-                            <!--<td class="pos2"></td>-->
-                        </tr>
-                        <tr>
-                            <!-- AKVA POSEIDON, s.r.o. - 48.933888, 21.905543-->
-                            <td class="pos3">3</td>
-                            <td class="pos3">AKVA POSEIDON, s.r.o.</td>
-                            <td class="pos3">Hviezdoslavova 1407/1, Humenné</td>
-                            <td class="pos3">+421 948 599 797</td>
-                            <td class="pos3"><a href="malito:obchod@akvaposeidon.eu">obchod@akvaposeidon.eu</a>, <a href="http://www.akvaposeidon.eu" target="_blank">www.akvaposeidon.eu</a></td>
-                            <!--<td class="pos3"></td>-->
-                        </tr>
+                    <tr>
+                        <td class="pos1">1</td>
+                        <td class="pos1">Chov-mix Arari</td>
+                        <td class="pos1">A. Kmeťa 360/5, Dubnica nad Váhom</td>
+                        <td class="pos1">+421 903 506 989</td>
+                        <td class="pos1"><a href="malito:chovmixarari@post.sk">chovmixarari@post.sk</a></td>
+                        <!--<td class="pos1">Všetko pre Vašich domácich miláčikov. Ak by náhodou niečo nemali, radi Vám to
+                            promptne zabezpečia.
+                        </td>-->
+                    </tr>
+                    <tr>
+                        <!-- Ťapka - 48.894948, 18.066775-->
+                        <td class="pos2">2</td>
+                        <td class="pos2">Ťapka</td>
+                        <td class="pos2">Pred poľom 1652, Trenčín</td>
+                        <td class="pos2">+421 908 754 288</td>
+                        <td class="pos2"><a href="malito:info@tapka.sk">info@tapka.sk</a>, <a href="http://www.tapka.sk"
+                                                                                              target="_blank">www.tapka.sk</a>
+                        </td>
+                        <!--<td class="pos2"></td>-->
+                    </tr>
+                    <tr>
+                        <!-- AKVA POSEIDON, s.r.o. - 48.933888, 21.905543-->
+                        <td class="pos3">3</td>
+                        <td class="pos3">AKVA POSEIDON, s.r.o.</td>
+                        <td class="pos3">Hviezdoslavova 1407/1, Humenné</td>
+                        <td class="pos3">+421 948 599 797</td>
+                        <td class="pos3"><a href="malito:obchod@akvaposeidon.eu">obchod@akvaposeidon.eu</a>, <a
+                                href="http://www.akvaposeidon.eu" target="_blank">www.akvaposeidon.eu</a></td>
+                        <!--<td class="pos3"></td>-->
+                    </tr>
 
-                        <tr>
-                            <td class="pos4">4</td>
-                            <td class="pos4">IBO</td>
-                            <td class="pos4">Bratislavská 123, 911 05 Trenčín</td>
-                            <td class="pos4">+421 907 123 002</td>
-                            <td class="pos3"><a href="http://www.ibo.sk" target="_blank">www.ibo.sk</a></td>
-                            <!--<td class="pos4"></td>-->
-                        </tr>
+                    <tr>
+                        <td class="pos4">4</td>
+                        <td class="pos4">IBO</td>
+                        <td class="pos4">Bratislavská 123, 911 05 Trenčín</td>
+                        <td class="pos4">+421 907 123 002</td>
+                        <td class="pos3"><a href="http://www.ibo.sk" target="_blank">www.ibo.sk</a></td>
+                        <!--<td class="pos4"></td>-->
+                    </tr>
                     </tbody>
                 </table>
             </div>
@@ -214,11 +187,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             allowTransparency="true"></iframe>
     </div>
 </div>
+
 <!-- FOOTER -->
 <?php include("footer.php"); ?>
-
-<script type='text/javascript' src='js/jquery.simplemodal.js'></script>
-<script type='text/javascript' src='js/basic.js'></script>
 
 </body>
 </html>		
